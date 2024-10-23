@@ -89,3 +89,6 @@ Pegawai.Java.png
 
 Programmer.Java.png
 
+Main.Java.png
+
+Manager.Java.png
