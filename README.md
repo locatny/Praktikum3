@@ -85,5 +85,7 @@
   # 3 *Abstraction (Abstraksi):*
     • Penggunaan metode seperti cetakInfo() menyembunyikan detail implementasi dan hanya menampilkan informasi yang relevan.
 
+Pegawai.Java.png
 
+Programmer.Java.png
 
