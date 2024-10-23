@@ -1,6 +1,7 @@
 # Praktikum3
 
-# • ~ I ~
+# *I* 
+
 # Implementasinya
 
 ![](DiagramManusiaMahasiswa.png)
@@ -87,7 +88,7 @@
     • Penggunaan metode seperti cetakInfo() menyembunyikan detail implementasi dan hanya menampilkan informasi yang relevan.
 
 
-# • ~ II ~
+# *II*
 
 # Implementasinya
 
