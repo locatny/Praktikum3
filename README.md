@@ -92,3 +92,5 @@ Programmer.Java.png
 Main.Java.png
 
 Manager.Java.png
+
+HasilOutput.png
