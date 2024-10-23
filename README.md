@@ -1,6 +1,6 @@
 # Praktikum3
 
-# • I
+# • ~ I ~
 # Implementasinya
 
 ![](DiagramManusiaMahasiswa.png)
@@ -10,7 +10,7 @@
 ![](Manusia1.png)
 ![](Manusia2.png)
 
-# 1 *Class Manusia*
+# 1. *Class Manusia*
   # Atribut:
     • protected String nama;
 
@@ -77,17 +77,17 @@
 
 # Prinsip OOP yang Diterapkan
 
-  # 1 *Encapsulation (Enkapsulasi):*
+  # 1. *Encapsulation (Enkapsulasi):*
     • Dengan menggunakan getter dan setter, kita menjaga agar akses ke atribut terbatas dan dapat mengontrol cara data diubah atau diambil.
 
-  # 2 *Inheritance (Pewarisan):*
+  # 2. *Inheritance (Pewarisan):*
     • Class Mahasiswa mewarisi atribut dan metode dari kelas Manusia, memungkinkan kita untuk mengelompokkan fitur umum (seperti nama, jenis kelamin, umur, dan alamat) di kelas dasar, dan menambahkan fitur khusus di kelas turunan.
 
-  # 3 *Abstraction (Abstraksi):*
+  # 3. *Abstraction (Abstraksi):*
     • Penggunaan metode seperti cetakInfo() menyembunyikan detail implementasi dan hanya menampilkan informasi yang relevan.
 
 
-# • II
+# • ~ II ~
 
 # Implementasinya
 
@@ -97,7 +97,7 @@
   
 ![](Pegawai.Java.png)
 
-  # 1 *Class Pegawai*
+  # 1. *Class Pegawai*
     • Pegawai adalah superclass atau kelas induk yang mendefinisikan atribut umum bagi semua pegawai, yaitu nama dan gajiPokok.
 
     • Method setter digunakan untuk mengatur nilai dari nama dan gajiPokok, sementara method getter digunakan untuk mengambil nilai dari atribut tersebut.
@@ -135,7 +135,7 @@
     • Kemudian, kita memanggil method cetakInfo() untuk menampilkan informasi mengenai objek tersebut di console.
 
 
-  # 2. *Cara Kerja Program*
+# Cara Kerja Program
   # Membuat Objek Manager:
     • Program pertama-tama membuat objek Manager dengan nama Budi. Gaji pokoknya diatur sebesar 8.000.000 dan tunjangannya 2.000.000 menggunakan method setter.
     
